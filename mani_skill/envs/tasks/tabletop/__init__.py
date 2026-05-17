@@ -17,3 +17,6 @@ from .roll_ball import RollBallEnv
 from .push_t import PushTEnv
 from .pull_cube_tool import PullCubeToolEnv
 from .stack_pyramid import StackPyramidEnv
+from .so101_peg_insertion import SO101PegInsertionEnv
+from .so101_peg_insertion_side import SO101PegInsertionSideEnv
+from .so101_peg_insertion_side_dyn import SO101PegInsertionSideDynEnv
